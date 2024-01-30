@@ -1,7 +1,5 @@
 # javascript_100-_codes
 javascript top  basic 100 code their logic in separate lines as well as their code
-
-<h1>JavaScript code examples:<h1>
 Variables and Data Types
 Operators (Arithmetic, Comparison, Logical)
 Conditional Statements (if, else if, else)
